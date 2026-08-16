@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #927289;
+}
+
+header {
+    background: #df2424;
+    color: rgb(155, 220, 13);
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background: #381e94;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: rgb(220, 10, 171);
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    padding: 30px;
+}
+
+.project {
+    background: rgb(31, 176, 230);
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
